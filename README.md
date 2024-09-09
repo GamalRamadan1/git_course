@@ -1,3 +1,3 @@
-## git_course
+# git_course
 welcome to my project 
 
